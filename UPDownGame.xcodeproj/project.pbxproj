@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					12D1A4641F29C82C00E3B603 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = XR6P5UF6TX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XR6P5UF6TX;
 				INFOPLIST_FILE = UPDownGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gameplay-dw.UPDownGame";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XR6P5UF6TX;
 				INFOPLIST_FILE = UPDownGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gameplay-dw.UPDownGame";
